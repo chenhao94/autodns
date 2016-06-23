@@ -1,0 +1,10 @@
+{
+    "login_token": "-",
+    "format": "json",
+    "domain": "-",
+    "record_id": "-",
+    "sub_domain": "-",
+    "record_type": "A",
+    "record_line": "默认",
+    "ttl": "600"
+} 

@@ -1,0 +1,6 @@
+*~
+.*
+!.gitignore
+data.json
+*.log
+*.bak
